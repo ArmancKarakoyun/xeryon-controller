@@ -42,7 +42,7 @@ To use the `xeryon_controller` package, follow these steps:
 ### Running the Rotary Motor Controller Node
 1. **Launch the ROS2 node:**
     ```sh
-    ros2 run xeryon_controller rotary_motor_controller
+    ros2 run xeryon_controller launch.py
     ```
 
 2. **Publish displacement data to the `rotary_data` topic:**
