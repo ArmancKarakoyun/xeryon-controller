@@ -1,0 +1,7 @@
+README.md
+Xeryon.py
+setup.py
+Xeryon.egg-info/PKG-INFO
+Xeryon.egg-info/SOURCES.txt
+Xeryon.egg-info/dependency_links.txt
+Xeryon.egg-info/top_level.txt

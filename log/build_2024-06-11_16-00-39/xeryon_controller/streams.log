@@ -1,0 +1,30 @@
+[0.596s] Invoking command in '/home/armanc/ros2_ws/src/xeryon_controller': PYTHONPATH=/home/armanc/ros2_ws/src/build/xeryon_controller/prefix_override:/home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/xeryon_controller build --build-base /home/armanc/ros2_ws/src/build/xeryon_controller/build install --record /home/armanc/ros2_ws/src/build/xeryon_controller/install.log --single-version-externally-managed install_data
+[0.832s] running egg_info
+[0.832s] writing ../build/xeryon_controller/xeryon_controller.egg-info/PKG-INFO
+[0.832s] writing dependency_links to ../build/xeryon_controller/xeryon_controller.egg-info/dependency_links.txt
+[0.833s] writing entry points to ../build/xeryon_controller/xeryon_controller.egg-info/entry_points.txt
+[0.833s] writing requirements to ../build/xeryon_controller/xeryon_controller.egg-info/requires.txt
+[0.833s] writing top-level names to ../build/xeryon_controller/xeryon_controller.egg-info/top_level.txt
+[0.835s] reading manifest file '../build/xeryon_controller/xeryon_controller.egg-info/SOURCES.txt'
+[0.835s] adding license file 'LICENSE'
+[0.836s] writing manifest file '../build/xeryon_controller/xeryon_controller.egg-info/SOURCES.txt'
+[0.836s] running build
+[0.836s] running build_py
+[0.836s] copying xeryon_controller/linear_node/linear_node.py -> /home/armanc/ros2_ws/src/build/xeryon_controller/build/lib/xeryon_controller/linear_node
+[0.837s] copying xeryon_controller/rotary_node/rotary_node.py -> /home/armanc/ros2_ws/src/build/xeryon_controller/build/lib/xeryon_controller/rotary_node
+[0.837s] running install
+[0.838s] running install_lib
+[0.839s] copying /home/armanc/ros2_ws/src/build/xeryon_controller/build/lib/xeryon_controller/linear_node/linear_node.py -> /home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages/xeryon_controller/linear_node
+[0.839s] copying /home/armanc/ros2_ws/src/build/xeryon_controller/build/lib/xeryon_controller/rotary_node/rotary_node.py -> /home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages/xeryon_controller/rotary_node
+[0.840s] byte-compiling /home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages/xeryon_controller/linear_node/linear_node.py to linear_node.cpython-310.pyc
+[0.840s] byte-compiling /home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages/xeryon_controller/rotary_node/rotary_node.py to rotary_node.cpython-310.pyc
+[0.841s] running install_data
+[0.841s] running install_egg_info
+[0.842s] removing '/home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages/xeryon_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.842s] Copying ../build/xeryon_controller/xeryon_controller.egg-info to /home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages/xeryon_controller-0.0.0-py3.10.egg-info
+[0.843s] running install_scripts
+[0.863s] Installing data_node script to /home/armanc/ros2_ws/src/install/xeryon_controller/lib/xeryon_controller
+[0.863s] Installing linear_node script to /home/armanc/ros2_ws/src/install/xeryon_controller/lib/xeryon_controller
+[0.863s] Installing rotary_node script to /home/armanc/ros2_ws/src/install/xeryon_controller/lib/xeryon_controller
+[0.864s] writing list of installed files to '/home/armanc/ros2_ws/src/build/xeryon_controller/install.log'
+[0.888s] Invoked command in '/home/armanc/ros2_ws/src/xeryon_controller' returned '0': PYTHONPATH=/home/armanc/ros2_ws/src/build/xeryon_controller/prefix_override:/home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/xeryon_controller build --build-base /home/armanc/ros2_ws/src/build/xeryon_controller/build install --record /home/armanc/ros2_ws/src/build/xeryon_controller/install.log --single-version-externally-managed install_data

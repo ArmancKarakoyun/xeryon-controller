@@ -1,0 +1,5 @@
+[console_scripts]
+data_node = xeryon_controller.data_node.data_node:main
+linear_node = xeryon_controller.linear_node.linear_node:main
+rotary_node = xeryon_controller.rotary_node.rotary_node:main
+

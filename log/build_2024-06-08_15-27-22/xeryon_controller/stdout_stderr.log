@@ -1,0 +1,32 @@
+running egg_info
+creating ../build/xeryon_controller/xeryon_controller.egg-info
+writing ../build/xeryon_controller/xeryon_controller.egg-info/PKG-INFO
+writing dependency_links to ../build/xeryon_controller/xeryon_controller.egg-info/dependency_links.txt
+writing entry points to ../build/xeryon_controller/xeryon_controller.egg-info/entry_points.txt
+writing requirements to ../build/xeryon_controller/xeryon_controller.egg-info/requires.txt
+writing top-level names to ../build/xeryon_controller/xeryon_controller.egg-info/top_level.txt
+writing manifest file '../build/xeryon_controller/xeryon_controller.egg-info/SOURCES.txt'
+reading manifest file '../build/xeryon_controller/xeryon_controller.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/xeryon_controller/xeryon_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/armanc/ros2_ws/src/build/xeryon_controller/build
+creating /home/armanc/ros2_ws/src/build/xeryon_controller/build/lib
+creating /home/armanc/ros2_ws/src/build/xeryon_controller/build/lib/xeryon_controller
+copying xeryon_controller/__init__.py -> /home/armanc/ros2_ws/src/build/xeryon_controller/build/lib/xeryon_controller
+running install
+running install_lib
+creating /home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages/xeryon_controller
+copying /home/armanc/ros2_ws/src/build/xeryon_controller/build/lib/xeryon_controller/__init__.py -> /home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages/xeryon_controller
+byte-compiling /home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages/xeryon_controller/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/armanc/ros2_ws/src/install/xeryon_controller/share/ament_index
+creating /home/armanc/ros2_ws/src/install/xeryon_controller/share/ament_index/resource_index
+creating /home/armanc/ros2_ws/src/install/xeryon_controller/share/ament_index/resource_index/packages
+copying resource/xeryon_controller -> /home/armanc/ros2_ws/src/install/xeryon_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/armanc/ros2_ws/src/install/xeryon_controller/share/xeryon_controller
+running install_egg_info
+Copying ../build/xeryon_controller/xeryon_controller.egg-info to /home/armanc/ros2_ws/src/install/xeryon_controller/lib/python3.10/site-packages/xeryon_controller-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/armanc/ros2_ws/src/build/xeryon_controller/install.log'
